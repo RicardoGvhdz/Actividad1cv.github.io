@@ -1,0 +1,47 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+.container {
+  max-width: 800px;
+  background: white;
+  padding: 20px;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1, h2 {
+  color: #0056b3;
+}
+p {
+  line-height: 1.5;
+}
+.section {
+  margin-bottom: 20px;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+ul li {
+  background: #e9ecef;
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 5px;
+}
+.contact {
+  font-weight: bold;
+  margin-top: 10px;
+}
+button {
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
